@@ -26,9 +26,8 @@
 ### 📈 GitHub 统计 (Stats)
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=iDucklinqz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDucklinqz&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iDucklinqz&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDucklinqz&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
-*💡 欢迎交流：高并发游戏网络同步、AI 模型蒸馏计算、或自动化交易算法设计。*
