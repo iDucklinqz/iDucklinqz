@@ -4,12 +4,6 @@
 
 我是一名专注于高性能基础设施、游戏服务端架构以及 AI 部署的开发者。
 
-### 🔭 近期动态 (What I'm currently working on)
-*   **TinyPx Network**: 开发定制化 Minecraft 玩法（如搜打撤模式 MoGold），管理底层网络与服务端架构。
-*   **AI 本地部署与微调**: 探索开源大模型（DeepSeek V4, Llama.cpp）的本地化部署、CUDA 加速计算以及 API Prompt 缓存优化。
-*   **量化交易 (Quant Trading)**: 研发自动化网格交易策略与短线市场模式分析。
-*   **基础设施运维**: 配置独立企业级服务器硬件、优化 BGP 路由防护及 Ubuntu 环境搭建。
-
 ### 🛠️ 技术栈 (Languages & Tools)
 
 **编程语言:**
@@ -26,8 +20,8 @@
 ### 📈 GitHub 统计 (Stats)
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iDucklinqz&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iDucklinqz&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=iDucklinqz&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=iDucklinqz&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
