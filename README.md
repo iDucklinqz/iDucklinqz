@@ -1,4 +1,4 @@
-# Hi there, 我是 TinyPx Studio 的创始人 👋
+# Hi there, 我是 iDucklinqz 👋
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github&fontSize=50&animation=fadeIn&fontAlignY=38)
 
